@@ -390,27 +390,27 @@
     "taopianapi": {
       "api": "https://taopianapi.com/cjapi/sda/vod",
       "name": "淘片资源"
-    }，
+    },
     "hongniuzy3": {
       "api": "https://www.hongniuzy3.com/api.php/provide/vod",
       "name": "红牛资源"
     },
     "xsd_sdzyapi": {
-      "api": "https://xsd.sdzyapi.com/api.php/provide/vod"，
+      "api": "https://xsd.sdzyapi.com/api.php/provide/vod",
       "name": "索尼-闪电资源"
-    }，
+    },
     "jyzyapi_provide": {
       "api": "https://jyzyapi.com/provide/vod",
       "name": "金鹰资源采集网"
-    }，
+    },
     "fczy888": {
       "api": "https://api.fczy888.me/api.php/provide/vod",
       "name": "蜂巢片库"
-    }，
+    },
     "jmzy": {
       "api": "https://api.jmzy.com/api.php/provide/vod",
       "name": "金马资源网"
-    }，
+    },
     "dadiapi": {
       "api": "https://dadiapi.com/api.php/provide/vod",
       "name": "大地资源网络"
